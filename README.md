@@ -1,4 +1,4 @@
-# Large Scale Distributed Systems (LSDS)
+# Large Scale Distributed Systems (LSDS) nice
 
 To get started, follow the [Developer setup](./DEVELOPER_SETUP.md).
 
